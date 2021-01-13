@@ -1,4 +1,6 @@
 # sudoku--solver
+deepanshi samant 
+B.Tech CSE
 
  Project on Sudoku solver
 We know that Sudoku is a 9 x 9 number grid, and the whole grid are also divided into 3 x 3 boxes There are some rules to solve the Sudoku.
